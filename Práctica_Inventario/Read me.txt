@@ -1,0 +1,24 @@
+DATOS GENERALES DEL PROGRAMA:
+- Nombre del programa: Inventario
+- Nombre del programador: Omar Baltazar Islas
+- Fecha de creación: 23/02/2020
+- Fecha de finalización: Aun no se finaliza.
+- Descripción del programa: El programa realiza una gestión de un inventario con operaciones básicas:
+					. Agregar producto.
+					. Mostrar productos.
+					. Modificar producto.
+					. Eliminar producto.
+					. Generar venta.
+					. Mostrar venta.
+					. Agregar cantidad.
+					. Disminuir cantidad.
+
+PREREQUISITOS PARA CORRER EL PROGRAMA:
+1. Contar con manejador de base de datos MySQL.
+2. Contar con IDE de Java (preferentemente NetBeans).
+3. Conar con el driver conector de Java y MySQL correspondiente a la versión instalada.
+
+INSTRUCCIONES PARA IMPORTAR EL PROGRAMA:
+1. Importar el script al manejador MySQL.
+2. Importar el driver manejador de MySQL a la librería en el proyecto de Java.
+3. Correr el programa desde el IDE de Java.
